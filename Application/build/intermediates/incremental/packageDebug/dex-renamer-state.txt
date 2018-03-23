@@ -1,0 +1,7 @@
+#Thu Mar 22 08:04:20 EDT 2018
+base.0=C\:\\Users\\D\\Desktop\\Senior\\MyApplication\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_343f70ea25982e1bbdde5096d90de3d776176880
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\D\\Desktop\\Senior\\MyApplication\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_754888cc34ec762689c4b094d9027a33db52a0ea\\classes.dex
+base.1=C\:\\Users\\D\\Desktop\\Senior\\MyApplication\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_754888cc34ec762689c4b094d9027a33db52a0ea
+file.0=C\:\\Users\\D\\Desktop\\Senior\\MyApplication\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_343f70ea25982e1bbdde5096d90de3d776176880\\classes.dex

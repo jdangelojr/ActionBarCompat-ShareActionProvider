@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb1868f4543f4a228b6949a4c373c29ccdef6d0b">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_754888cc34ec762689c4b094d9027a33db52a0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af46cea3ead3904feb8d11cb272d54a9191f75ba">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_343f70ea25982e1bbdde5096d90de3d776176880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_da5dbfc722c6ea8ab2b1f543463922f7759450f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_14f1aac8b0ae79bd122b1bab4f612b7afecc2d5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_d17f9301aaca7d2f131632bd5b59c2afd4a8ca79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_e30df81c0a3d3adbe426111ab632daa6e96b2e98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_c2aba38b92cdaa2ae6aa78a9241db86629771abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_e8b8ea385c42bcf7f66fb8b950f2bcba570f85d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_ae85935ba81447bfee43468fe2910ee07a8ea266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\D\Desktop\Senior\MyApplication\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_9aa7c787debfb543b75b7ff07d557c65e3d241c4\classes.dex" />
+    </item>
+
+</items>
